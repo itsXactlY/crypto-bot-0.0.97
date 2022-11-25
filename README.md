@@ -10,6 +10,7 @@ Binance REST API is based on [sammchardy/python-binance](https://github.com/samm
 
 ## Disclaimer
 - **Use it at your own risk.**
+- **MORE UP2DATE VERSION EXIST SOMEWHERE AROUND ON GITHUB. BACKUP ONLY**
 - It is not a commercial project, immediate response and or fixes are not guaranteed.
 - This project was developed to improve my personal experience with Binance trading,
 I am not taking any responsibility for the outcomes you get when using it.  
